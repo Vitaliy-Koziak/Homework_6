@@ -22,7 +22,7 @@ second_colomn = []
 for i in range(m):
     second_colomn.append(numbers[i][1])
 print("Max element of 2nd colomn is: %d"%max(second_colomn))
-#3)Поміняти місцями 2-й та 4-й стовпці матриці. Результат вивести на екран
+#3)Поміняти місцями 2-й та 4-й стовпці  матриці. Результат вивести на екран
 print()
 print("Swaped 2nd and 4th coloums: ")
 temp = 0
